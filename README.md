@@ -1,4 +1,4 @@
-# Walmart-Customer-Purchase-Behaviour
+# Walmart Purchase Behaviour Analysis
 
 ## Project Overview
 This project analyzes Walmart customer purchase behavior using a dataset of 550,068 transactions. The analysis leverages statistical techniques and visualizations to derive insights about spending patterns across demographics, product categories, and customer profiles.
